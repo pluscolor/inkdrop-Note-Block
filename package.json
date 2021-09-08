@@ -1,7 +1,7 @@
 {
   "name": "my.inkdrop.app",
   "description": "Code Block Like Notebook line Preview (Github preview theme base)",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "theme": "preview",
   "scripts": {
     "build": "lessc styles/less/note-markdown.less ./styles/note-markdown.css && lessc styles/less/github-markdown-dark.less ./styles/github-markdown-dark.css"
