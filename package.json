@@ -1,16 +1,16 @@
 {
-  "name": "note-preview",
+  "name": "my.inkdrop.app",
   "description": "Code Block Like Notebook line Preview (Github preview theme base)",
   "version": "0.1.0",
   "theme": "preview",
   "scripts": {
-    "build": "lessc styles/less/github-markdown.less ./styles/github-markdown.css && lessc styles/less/github-markdown-dark.less ./styles/github-markdown-dark.css"
+    "build": "lessc styles/less/note-markdown.less ./styles/note-markdown.css && lessc styles/less/github-markdown-dark.less ./styles/github-markdown-dark.css"
   },
-  "repository": "https://github.com/inkdropapp/inkdrop-github-preview-theme",
+  "repository": "https://github.com/pluscolor/inkdrop-Note-Block",
   "license": "MIT",
   "styleSheets": [
-    "github-markdown.css",
-    "github-markdown-dark.css"
+    "note-markdown.css",
+    "note-markdown-dark.css"
   ],
   "engines": {
     "inkdrop": "^5.x"
