@@ -1,3 +1,5 @@
 # Note-block Preview Theme
 
-Code block like Note-Line preview.
+This theme has code blocks that look like ruled lines in a notebook.  
+It is based on the Github theme.  
+
